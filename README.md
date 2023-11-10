@@ -7,3 +7,33 @@ A seguinte documentação deverá ser anexada em PDF:
   - Mind-map de pelo menos 1 User Story
   - 2 casos de teste utilizando técnica step-by-step (no mínimo) com a configuração que preferir
   - 2 casos de teste utilizando BDD (no mínimo)
+
+# Documentação do Projeto
+
+## Visão Geral do Projeto
+
+Este repositório no GitHub contém a documentação relacionada ao processo de teste para a aplicação SwagLabs. O projeto envolve testes de diversas funcionalidades, como registro de usuário, login, recuperação de senha e funcionalidades relacionadas a produtos.
+
+### Arquivos Incluídos:
+
+1. **Plano de Fluxo de Trabalho (PDF):**
+   - [Plano_de_Fluxo_de_Trabalho.pdf](link_para_plano_de_fluxo_de_trabalho.pdf)
+   - Descreve o fluxo de desenvolvimento e o ciclo de vida de bugs.
+
+2. **Histórias de Usuário (PDF):**
+   - [Historias_de_Usuario.pdf](link_para_historias_de_usuario.pdf)
+   - Contém pelo menos 2 histórias de usuário em formato PDF.
+
+3. **Documentos de Teste:**
+   - **Mapa Mental (PDF):**
+     - [Mapa_Mental.pdf](link_para_mapa_mental.pdf)
+     - Representa o fluxo visual de pelo menos 1 história de usuário.
+
+   - **Casos de Teste Passo a Passo (PDF):**
+     - [Casos_de_Teste_Passo_a_Passo.pdf](link_para_casos_de_teste_passo_a_passo.pdf)
+     - Inclui 2 casos de teste usando a técnica passo a passo.
+
+   - **Casos de Teste BDD (PDF):**
+     - [Casos_de_Teste_BDD.pdf](link_para_casos_de_teste_bdd.pdf)
+     - Contém 2 casos de teste usando a abordagem Desenvolvimento Orientado a Comportamento (BDD).
+
