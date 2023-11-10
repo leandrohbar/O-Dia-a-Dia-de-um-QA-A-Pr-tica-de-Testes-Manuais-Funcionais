@@ -26,7 +26,7 @@ Este repositório no GitHub contém a documentação relacionada ao processo de 
 
 3. **Documentos de Teste:**
    - **Mapa Mental (PDF):**
-     - [Mapa_Mental.pdf](link_para_mapa_mental.pdf)
+     - [Mapa_Mental.pdf](https://github.com/leandrohbar/O-Dia-a-Dia-de-um-QA-A-Pratica-de-Testes-Manuais-Funcionais/blob/main/Mind%20Map%20Login.pdf)
      - Representa o fluxo visual de pelo menos 1 história de usuário.
 
    - **Casos de Teste Passo a Passo (PDF):**
