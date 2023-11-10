@@ -30,10 +30,10 @@ Este repositório no GitHub contém a documentação relacionada ao processo de 
      - Representa o fluxo visual de pelo menos 1 história de usuário.
 
    - **Casos de Teste Passo a Passo (PDF):**
-     - [Casos_de_Teste_Passo_a_Passo.pdf](link_para_casos_de_teste_passo_a_passo.pdf)
+     - [Casos_de_Teste_Passo_a_Passo.pdf](https://github.com/leandrohbar/O-Dia-a-Dia-de-um-QA-A-Pratica-de-Testes-Manuais-Funcionais/blob/main/Casos%20de%20Testes.pdf)
      - Inclui 2 casos de teste usando a técnica passo a passo.
 
    - **Casos de Teste BDD (PDF):**
-     - [Casos_de_Teste_BDD.pdf](link_para_casos_de_teste_bdd.pdf)
+     - [Casos_de_Teste_BDD.pdf](https://github.com/leandrohbar/O-Dia-a-Dia-de-um-QA-A-Pratica-de-Testes-Manuais-Funcionais/blob/main/Casos%20de%20Testes.pdf)
      - Contém 2 casos de teste usando a abordagem Desenvolvimento Orientado a Comportamento (BDD).
 
