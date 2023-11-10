@@ -17,7 +17,7 @@ Este repositório no GitHub contém a documentação relacionada ao processo de 
 ### Arquivos Incluídos:
 
 1. **Plano de Fluxo de Trabalho (PDF):**
-   - [Plano_de_Fluxo_de_Trabalho.pdf](link_para_plano_de_fluxo_de_trabalho.pdf)
+   - [Plano_de_Fluxo_de_Trabalho.pdf](https://github.com/leandrohbar/O-Dia-a-Dia-de-um-QA-A-Pratica-de-Testes-Manuais-Funcionais/blob/main/Fluxo%20de%20Vida%20do%20Bug.pdf)
    - Descreve o fluxo de desenvolvimento e o ciclo de vida de bugs.
 
 2. **Histórias de Usuário (PDF):**
