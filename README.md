@@ -21,7 +21,7 @@ Este repositório no GitHub contém a documentação relacionada ao processo de 
    - Descreve o fluxo de desenvolvimento e o ciclo de vida de bugs.
 
 2. **Histórias de Usuário (PDF):**
-   - [Historias_de_Usuario.pdf](link_para_historias_de_usuario.pdf)
+   - [Historias_de_Usuario.pdf]([link_para_historias_de_usuario.pdf](https://github.com/leandrohbar/O-Dia-a-Dia-de-um-QA-A-Pratica-de-Testes-Manuais-Funcionais/blob/main/UsersStories.pdf))
    - Contém pelo menos 2 histórias de usuário em formato PDF.
 
 3. **Documentos de Teste:**
